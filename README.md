@@ -4,13 +4,33 @@ A Spring Boot REST API for an E-Commerce platform.
 
 ## Features
 
-- User Registration
-- Product Management (CRUD)
-- Cart Management
-- Order Placement
-- Spring Security Integration
-- MySQL Database
-- JPA/Hibernate
+✅ User Registration
+
+✅ Product CRUD Operations
+
+✅ Shopping Cart Management
+
+✅ Order Placement
+
+✅ Spring Security Integration
+
+✅ MySQL Database Integration
+
+✅ RESTful API Architecture
+
+## Project Structure
+
+src/main/java/com/ecommerce/ecommerce
+
+├── controller
+
+├── service
+
+├── repository
+
+├── model
+
+├── security
 
 ## Tech Stack
 
