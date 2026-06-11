@@ -43,25 +43,25 @@ A Spring Boot REST API for an E-Commerce platform.
 ## Screenshots
 
 ### User Registration
-![User Registration](Screenshots/user-registration.png)
+![User Registration](screenshots/user-registration.png)
 
 ### Create Product
-![Create Product](Screenshots/create-product.png)
+![Create Product](screenshots/create-product.png)
 
 ### Get Products
-![Get Products](Screenshots/get-products.png)
+![Get Products](screenshots/get-products.png)
 
 ### Get Product By ID
-![Get Product By ID](Screenshots/get-product-by-id.png)
+![Get Product By ID](screenshots/get-product-by-id.png)
 
 ### Update Product
-![Update Product](Screenshots/update-product.png)
+![Update Product](screenshots/update-product.png)
 
 ### Delete Product
-![Delete Product](Screenshots/delete-product.png)
+![Delete Product](screenshots/delete-product.png)
 
 ### Add To Cart
-![Add To Cart](Screenshots/add-to-cart.png)
+![Add To Cart](screenshots/add-to-cart.png)
 
 ### Place Order
-![Place Order](Screenshots/place-order.png)
+![Place Order](screenshots/place-order.png)
